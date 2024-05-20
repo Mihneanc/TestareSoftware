@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0aac4f45-b24c-4372-9b48-f166d41792ae": {
+      "ProjectGuid": "0aac4f45-b24c-4372-9b48-f166d41792ae",
+      "DisplayName": "Web.Example.S3.Framework",
+      "ColorIndex": 0
+    },
+    "2a436fde-1e8e-45c7-a27d-8b3cca3209a1": {
+      "ProjectGuid": "2a436fde-1e8e-45c7-a27d-8b3cca3209a1",
+      "DisplayName": "Web.Example.S3.Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

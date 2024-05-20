@@ -1,0 +1,13 @@
+D:\web-example-s3-master\web-example-s3-master\src\Web.Example.S3.Framework\bin\Debug\Web.Example.S3.Framework.dll
+D:\web-example-s3-master\web-example-s3-master\src\Web.Example.S3.Framework\bin\Debug\Web.Example.S3.Framework.pdb
+D:\web-example-s3-master\web-example-s3-master\src\Web.Example.S3.Framework\bin\Debug\nunit.framework.dll
+D:\web-example-s3-master\web-example-s3-master\src\Web.Example.S3.Framework\bin\Debug\WebDriver.dll
+D:\web-example-s3-master\web-example-s3-master\src\Web.Example.S3.Framework\bin\Debug\WebDriver.Support.dll
+D:\web-example-s3-master\web-example-s3-master\src\Web.Example.S3.Framework\bin\Debug\nunit.framework.xml
+D:\web-example-s3-master\web-example-s3-master\src\Web.Example.S3.Framework\bin\Debug\WebDriver.xml
+D:\web-example-s3-master\web-example-s3-master\src\Web.Example.S3.Framework\bin\Debug\WebDriver.Support.xml
+D:\web-example-s3-master\web-example-s3-master\src\Web.Example.S3.Framework\obj\Debug\Web.Example.S3.Framework.csproj.AssemblyReference.cache
+D:\web-example-s3-master\web-example-s3-master\src\Web.Example.S3.Framework\obj\Debug\Web.Example.S3.Framework.csproj.CoreCompileInputs.cache
+D:\web-example-s3-master\web-example-s3-master\src\Web.Example.S3.Framework\obj\Debug\Web.Example.S3.Framework.csproj.CopyComplete
+D:\web-example-s3-master\web-example-s3-master\src\Web.Example.S3.Framework\obj\Debug\Web.Example.S3.Framework.dll
+D:\web-example-s3-master\web-example-s3-master\src\Web.Example.S3.Framework\obj\Debug\Web.Example.S3.Framework.pdb
